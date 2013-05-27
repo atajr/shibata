@@ -4,7 +4,7 @@ public class shibata {
 
 		System.out.println("Hello world");	
 
-		System.out.println("Ráááá!!!");	
+		System.out.println("Ráááá!!! no master");	
 	}
 
 }
